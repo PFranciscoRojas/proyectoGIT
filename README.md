@@ -1,5 +1,3 @@
 1. Francisco Alexander Rojas Diaz
-
-2. Diego Alejandro Guerrero España
-
-3. camilo Andres Pulistar Lopez.
+2. camilo Andres Pulistar Lopez.
+3. Diego Alejandro Guerrero España
