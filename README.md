@@ -5,6 +5,9 @@
 5. Sebastian Fajrdo Delgado.
 6. Jhosept Villota.
 7. Santiago Reyes Sanchez.
+8. Zarella Burbano
+9. Kevin Chachinoy inampues
+
 
 
 
