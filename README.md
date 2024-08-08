@@ -4,6 +4,8 @@
 4. Nathalia Cabrera Revelo
 5. Sebastian Fajrdo Delgado.
 6.Jhosept Villota.
+7. Zarella Burbano
+8. Kevin Chachinoy
 
 
 
