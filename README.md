@@ -7,6 +7,7 @@
 7. Santiago Reyes Sanchez.
 8. Zarella Burbano
 9. Kevin Chachinoy inampues
+10.Samuel Patiño Villota
 
 
 
