@@ -3,9 +3,11 @@
 3. Diego Alejandro Guerrero España
 4. Nathalia Cabrera Revelo
 5. Sebastian Fajrdo Delgado.
-6.Jhosept Villota.
-7. Zarella Burbano
-8. Kevin Chachinoy inampues
+6. Jhosept Villota.
+7. Santiago Reyes Sanchez.
+8. Zarella Burbano
+9. Kevin Chachinoy inampues
+
 
 
 
