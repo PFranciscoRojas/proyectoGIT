@@ -7,9 +7,5 @@
 7. Santiago Reyes Sanchez.
 8. Zarella Burbano
 9. Kevin Chachinoy inampues
-
-
-
-
-
-
+10. Deivid Julian Cardenas Melo
+11. Miguel Angel Cajigas
