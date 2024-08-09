@@ -12,6 +12,7 @@
 12. Samuel Patiño Villota
 13. brayan alejandro rojas sanchez
 14. Julian David Escobar Figueroa
+15. Carlos Alegria Velasco
 
 
 
