@@ -9,8 +9,8 @@
 9. Kevin Chachinoy inampues
 10. Deivid Julian Cardenas Melo
 11. Miguel Angel Cajigas
-12.Samuel Patiño Villota
-
+12. Samuel Patiño Villota
+13. brayan alejandro rojas sanchez
 
 
 
