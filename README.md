@@ -13,6 +13,5 @@
 13. brayan alejandro rojas sanchez
 14. Julian David Escobar Figueroa
 15. Carlos Alegria Velasco
-
-
-
+16. Lina viveros
+17. Santiago Mallama
