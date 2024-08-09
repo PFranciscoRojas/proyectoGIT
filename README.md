@@ -11,6 +11,7 @@
 11. Miguel Angel Cajigas
 12. Samuel Patiño Villota
 13. brayan alejandro rojas sanchez
+14. Julian David Escobar Figueroa
 
 
 
